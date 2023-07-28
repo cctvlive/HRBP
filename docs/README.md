@@ -1,7 +1,7 @@
 杭州翋宝网络科技有限公司
 ======
 
-![image](docs/image/labaoslogo.png)
+![image](image/labaoslogo.png)
 
 E-MAIL
 ======
@@ -18,6 +18,6 @@ E-MAIL
 
 上海:
 ```bash
-蒋瑜、王威、李臣豪、郑鹏飞、朱美佳、黄娟、沈倪
+蒋瑜、王威、李臣豪、郑鹏飞、朱美佳、黄娟、沈倪、徐凡
 ```
 
