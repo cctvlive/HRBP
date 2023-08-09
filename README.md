@@ -59,4 +59,6 @@ E-MAIL
 
 ```
 
+[运营经理][运营经理][运营经理]: http://hrbp.labaos.com/docs/翋宝电子商务运营经理岗位说明书.pdf
+
 
