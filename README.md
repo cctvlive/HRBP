@@ -132,7 +132,7 @@ E-MAIL
 
 [抖音电商渠道]
 
-[抖音电商渠道]: http://hrbp.labaos.com/docs/抖音代销资质.pdf
+[抖音电商渠道]: http://hrbp.labaos.com/docs/抖音电商渠道核定类目表.pdf
 
 
 入职流程:
