@@ -35,7 +35,7 @@ E-MAIL
 
 电商:
 1、代运营:代理服装、美业、餐饮等线下商家的网络营销活动策划、商品上下架、商家店铺开通认证,采取月度收费、年度收费、订单佣金等服务方式,
-目前支持:淘宝、天猫、京东、拼多多、抖音、大众点评、美团、饿了吗等众多平台.可依据客户网络营销活动需求进行精准平台投放和多种商企合作模式.
+目前支持:淘宝、天猫、京东、拼多多、抖音、大众点评、美团、饿了么等众多平台.可依据客户网络营销活动需求进行精准平台投放和多种商企合作模式.
 
 团队规模:
 目前该公司团队覆盖主要地区和一线城市:京津冀、长三角、粤港澳等地区
@@ -61,31 +61,80 @@ E-MAIL
 ```
 岗位:
 
-总监级:项目总监、服务总监、商务总监、运营总监、营销总监、技术总监、市场总监、产品总监、资源总监等
+总监级:
+
+[项目总监]、[服务总监]、[商务总监]、[运营总监]、[营销总监]、[技术总监]、[市场总监]、[产品总监]、[资源总监]
+
+[项目总监]: http://hrbp.labaos.com/docs/翋宝项目总监岗位说明书.pdf
+[服务总监]: http://hrbp.labaos.com/docs/翋宝服务总监岗位说明书.pdf
+[商务总监]: http://hrbp.labaos.com/docs/翋宝商务总监岗位说明书.pdf
+[运营总监]: http://hrbp.labaos.com/docs/翋宝运营总监岗位说明书.pdf
+[营销总监]: http://hrbp.labaos.com/docs/翋宝营销总监岗位说明书.pdf
+[技术总监]: http://hrbp.labaos.com/docs/翋宝技术总监岗位说明书.pdf
+[市场总监]: http://hrbp.labaos.com/docs/翋宝市场总监岗位说明书.pdf
+[产品总监]: http://hrbp.labaos.com/docs/翋宝产品总监岗位说明书.pdf
+[资源总监]: http://hrbp.labaos.com/docs/翋宝资源总监岗位说明书.pdf
 
 经理级:
 
-[项目经理]、[产品经理]、[商务经理]、[电商运营经理] 、营销经理、技术经理、市场经理、服务经理、资源经理、合约经理、法务经理、行政经理等
+[项目经理]、[产品经理]、[商务经理]、[电商运营经理] 、[营销经理]、[技术经理]、[市场经理]、[服务经理]、[资源经理]、[合约经理]、[法务经理]、[行政经理]
 
 [项目经理]: http://hrbp.labaos.com/docs/翋宝项目经理岗位说明书.pdf
 [产品经理]: http://hrbp.labaos.com/docs/翋宝产品经理岗位说明书.pdf
 [商务经理]: http://hrbp.labaos.com/docs/翋宝商务经理岗位说明书.pdf
-
 [电商运营经理]: http://hrbp.labaos.com/docs/翋宝电子商务运营经理岗位说明书.pdf
+
+[营销经理]: http://hrbp.labaos.com/docs/翋宝营销经理岗位说明书.pdf
+[技术经理]: http://hrbp.labaos.com/docs/翋宝技术经理岗位说明书.pdf
+[市场经理]: http://hrbp.labaos.com/docs/翋宝市场经理岗位说明书.pdf
+[服务经理]: http://hrbp.labaos.com/docs/翋宝服务经理岗位说明书.pdf
+[资源经理]: http://hrbp.labaos.com/docs/翋宝资源经理岗位说明书.pdf
+[合约经理]: http://hrbp.labaos.com/docs/翋宝合约经理岗位说明书.pdf
+[法务经理]: http://hrbp.labaos.com/docs/翋宝法务经理岗位说明书.pdf
+[行政经理]: http://hrbp.labaos.com/docs/翋宝行政经理岗位说明书.pdf
 
 职员:
 
-产品系列职位:需求分析师、UI设计师、产品设计师
+产品系列职位:[需求分析师]、[UI设计师]、[产品设计师]
 
-技术系列职位:系统架构师、研发工程师、运维工程师、数据BI工程师、信息安全工程师
+[需求分析师]: http://hrbp.labaos.com/docs/翋宝需求分析师岗位说明书.pdf
+[UI设计师]: http://hrbp.labaos.com/docs/翋宝UI设计师岗位说明书.pdf
+[产品设计师]: http://hrbp.labaos.com/docs/翋宝产品设计师岗位说明书.pdf
 
-电商系列职位:影视音频处理师、专业摄影师
+技术系列职位:[系统架构师]、[研发工程师]、[运维工程师]、[数据BI工程师]、[信息安全工程师]
 
-综合系列职位:企业策划师、CI驾驶员
+[系统架构师]: http://hrbp.labaos.com/docs/翋宝系统架构师岗位说明书.pdf
+[研发工程师]: http://hrbp.labaos.com/docs/翋宝研发工程师岗位说明书.pdf
+[运维工程师]: http://hrbp.labaos.com/docs/翋宝运维工程师岗位说明书.pdf
+[数据BI工程师]: http://hrbp.labaos.com/docs/翋宝数据BI工程师岗位说明书.pdf
+[信息安全工程师]: http://hrbp.labaos.com/docs/翋宝信息安全工程师岗位说明书.pdf
 
-职业系列职位:职业经理人、职业秘书
+电商系列职位:[影视音频处理师]、[专业摄影师]
+
+[影视音频处理师]: http://hrbp.labaos.com/docs/翋宝影视音频处理师岗位说明书.pdf
+[专业摄影师]: http://hrbp.labaos.com/docs/翋宝专业摄影师岗位说明书.pdf
+
+综合系列职位:[企业策划师]、[CI驾驶员]
+
+[企业策划师]: http://hrbp.labaos.com/docs/翋宝企业策划师岗位说明书.pdf
+[CI驾驶员]: http://hrbp.labaos.com/docs/翋宝CI驾驶员岗位说明书.pdf
+
+职业系列职位:[职业经理人]、[职业秘书]
+
+[职业经理人]: http://hrbp.labaos.com/docs/翋宝职业经理人岗位说明书.pdf
+[职业秘书]: http://hrbp.labaos.com/docs/翋宝职业秘书岗位说明书.pdf
 
 
+
+入职流程:
+1、入职登记
+
+扫码填写入职登记
+2、依据入职登记内容发送电子合同,甲乙双方签订入职电子合约
+3、发送入职邮件,入职职员查阅复制邮件
+4、回复入职邮件,附件内容:入职材料+签约版电子合约
+5、开通办公邮件,职员登陆办公邮件下载办公邮件APP登陆账号
+6、进入公司
 
 
 
