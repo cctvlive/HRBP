@@ -128,9 +128,9 @@ E-MAIL
 翋宝电商渠道业务:
 ======
 
-[抖音代销]
+[抖音电商渠道]
 
-[抖音代销]: http://hrbp.labaos.com/docs/抖音代销资质.pdf
+[抖音电商渠道]: http://hrbp.labaos.com/docs/抖音代销资质.pdf
 
 
 入职流程:
