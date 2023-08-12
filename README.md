@@ -129,6 +129,9 @@ E-MAIL
 入职流程:
 1、入职登记
 
+![image](docs/image/labaos-feishu.png)
+![image](docs/image/labaoslogo.png)
+
 扫码填写入职登记
 2、依据入职登记内容发送电子合同,甲乙双方签订入职电子合约
 3、发送入职邮件,入职职员查阅复制邮件
