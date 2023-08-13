@@ -54,7 +54,7 @@ E-MAIL
 
 招聘:
 目前面向社会广招精英,如您有意加入我们请将您的简历等信息发送至admin@labaos.cn,我们期待您的加入.
-招聘职级:经理级、总监级、职员
+招聘职级:经理级、总监级、职员级、专业级
 类型:商务、服务、运营、营销、市场、技术、管理、资源等类型精英
 
 
@@ -65,15 +65,15 @@ E-MAIL
 
 [项目总监]、[服务总监]、[商务总监]、[运营总监]、[营销总监]、[技术总监]、[市场总监]、[产品总监]、[资源总监]
 
-[项目总监]: http://hrbp.labaos.com/docs/翋宝项目总监岗位说明书.pdf
-[服务总监]: http://hrbp.labaos.com/docs/翋宝服务总监岗位说明书.pdf
-[商务总监]: http://hrbp.labaos.com/docs/翋宝商务总监岗位说明书.pdf
-[运营总监]: http://hrbp.labaos.com/docs/翋宝运营总监岗位说明书.pdf
-[营销总监]: http://hrbp.labaos.com/docs/翋宝营销总监岗位说明书.pdf
-[技术总监]: http://hrbp.labaos.com/docs/翋宝技术总监岗位说明书.pdf
-[市场总监]: http://hrbp.labaos.com/docs/翋宝市场总监岗位说明书.pdf
-[产品总监]: http://hrbp.labaos.com/docs/翋宝产品总监岗位说明书.pdf
-[资源总监]: http://hrbp.labaos.com/docs/翋宝资源总监岗位说明书.pdf
+[项目总监]: http://hrbp.labaos.com/docs/总监级/翋宝项目总监岗位说明书.pdf
+[服务总监]: http://hrbp.labaos.com/docs/总监级/翋宝服务总监岗位说明书.pdf
+[商务总监]: http://hrbp.labaos.com/docs/总监级/翋宝商务总监岗位说明书.pdf
+[运营总监]: http://hrbp.labaos.com/docs/总监级/翋宝运营总监岗位说明书.pdf
+[营销总监]: http://hrbp.labaos.com/docs/总监级/翋宝营销总监岗位说明书.pdf
+[技术总监]: http://hrbp.labaos.com/docs/总监级/翋宝技术总监岗位说明书.pdf
+[市场总监]: http://hrbp.labaos.com/docs/总监级/翋宝市场总监岗位说明书.pdf
+[产品总监]: http://hrbp.labaos.com/docs/总监级/翋宝产品总监岗位说明书.pdf
+[资源总监]: http://hrbp.labaos.com/docs/总监级/翋宝资源总监岗位说明书.pdf
 
 经理级:
 
@@ -81,50 +81,53 @@ E-MAIL
 
 [市场经理]、[服务经理]、[资源经理]、[合约经理]、[法务经理]、[行政经理]
 
-[项目经理]: http://hrbp.labaos.com/docs/翋宝项目经理岗位说明书.pdf
-[产品经理]: http://hrbp.labaos.com/docs/翋宝产品经理岗位说明书.pdf
-[商务经理]: http://hrbp.labaos.com/docs/翋宝商务经理岗位说明书.pdf
-[电商运营经理]: http://hrbp.labaos.com/docs/翋宝电子商务运营经理岗位说明书.pdf
+[项目经理]: http://hrbp.labaos.com/docs/经理级/翋宝项目经理岗位说明书.pdf
+[产品经理]: http://hrbp.labaos.com/docs/经理级/翋宝产品经理岗位说明书.pdf
+[商务经理]: http://hrbp.labaos.com/docs/经理级/翋宝商务经理岗位说明书.pdf
+[电商运营经理]: http://hrbp.labaos.com/docs/经理级/翋宝电子商务运营经理岗位说明书.pdf
 
-[营销经理]: http://hrbp.labaos.com/docs/翋宝营销经理岗位说明书.pdf
-[技术经理]: http://hrbp.labaos.com/docs/翋宝技术经理岗位说明书.pdf
-[市场经理]: http://hrbp.labaos.com/docs/翋宝市场经理岗位说明书.pdf
-[服务经理]: http://hrbp.labaos.com/docs/翋宝服务经理岗位说明书.pdf
-[资源经理]: http://hrbp.labaos.com/docs/翋宝资源经理岗位说明书.pdf
-[合约经理]: http://hrbp.labaos.com/docs/翋宝合约经理岗位说明书.pdf
-[法务经理]: http://hrbp.labaos.com/docs/翋宝法务经理岗位说明书.pdf
-[行政经理]: http://hrbp.labaos.com/docs/翋宝行政经理岗位说明书.pdf
+[营销经理]: http://hrbp.labaos.com/docs/经理级/翋宝营销经理岗位说明书.pdf
+[技术经理]: http://hrbp.labaos.com/docs/经理级/翋宝技术经理岗位说明书.pdf
+[市场经理]: http://hrbp.labaos.com/docs/经理级/翋宝市场经理岗位说明书.pdf
+[服务经理]: http://hrbp.labaos.com/docs/经理级/翋宝服务经理岗位说明书.pdf
+[资源经理]: http://hrbp.labaos.com/docs/经理级/翋宝资源经理岗位说明书.pdf
+[合约经理]: http://hrbp.labaos.com/docs/经理级/翋宝合约经理岗位说明书.pdf
+[法务经理]: http://hrbp.labaos.com/docs/经理级/翋宝法务经理岗位说明书.pdf
+[行政经理]: http://hrbp.labaos.com/docs/经理级/翋宝行政经理岗位说明书.pdf
 
-职员:
+职员级:
 
 产品系列职位:[需求分析师]、[UI设计师]、[产品设计师]
 
-[需求分析师]: http://hrbp.labaos.com/docs/翋宝需求分析师岗位说明书.pdf
-[UI设计师]: http://hrbp.labaos.com/docs/翋宝UI设计师岗位说明书.pdf
-[产品设计师]: http://hrbp.labaos.com/docs/翋宝产品设计师岗位说明书.pdf
+[需求分析师]: http://hrbp.labaos.com/docs/职员级/翋宝需求分析师岗位说明书.pdf
+[UI设计师]: http://hrbp.labaos.com/docs/职员级/翋宝UI设计师岗位说明书.pdf
+[产品设计师]: http://hrbp.labaos.com/docs/职员级/翋宝产品设计师岗位说明书.pdf
 
 技术系列职位:[系统架构师]、[研发工程师]、[运维工程师]、[数据BI工程师]、[信息安全工程师]
 
-[系统架构师]: http://hrbp.labaos.com/docs/翋宝系统架构师岗位说明书.pdf
-[研发工程师]: http://hrbp.labaos.com/docs/翋宝研发工程师岗位说明书.pdf
-[运维工程师]: http://hrbp.labaos.com/docs/翋宝运维工程师岗位说明书.pdf
-[数据BI工程师]: http://hrbp.labaos.com/docs/翋宝数据BI工程师岗位说明书.pdf
-[信息安全工程师]: http://hrbp.labaos.com/docs/翋宝信息安全工程师岗位说明书.pdf
+[系统架构师]: http://hrbp.labaos.com/docs/职员级/翋宝系统架构师岗位说明书.pdf
+[研发工程师]: http://hrbp.labaos.com/docs/职员级/翋宝研发工程师岗位说明书.pdf
+[运维工程师]: http://hrbp.labaos.com/docs/职员级/翋宝运维工程师岗位说明书.pdf
+[数据BI工程师]: http://hrbp.labaos.com/docs/职员级/翋宝数据BI工程师岗位说明书.pdf
+[信息安全工程师]: http://hrbp.labaos.com/docs/职员级/翋宝信息安全工程师岗位说明书.pdf
 
 电商系列职位:[影视音频处理师]、[专业摄影师]
 
-[影视音频处理师]: http://hrbp.labaos.com/docs/翋宝影视音频处理师岗位说明书.pdf
-[专业摄影师]: http://hrbp.labaos.com/docs/翋宝专业摄影师岗位说明书.pdf
+[影视音频处理师]: http://hrbp.labaos.com/docs/职员级/翋宝影视音频处理师岗位说明书.pdf
+[专业摄影师]: http://hrbp.labaos.com/docs/职员级/翋宝专业摄影师岗位说明书.pdf
 
 综合系列职位:[企业策划师]、[CI驾驶员]
 
-[企业策划师]: http://hrbp.labaos.com/docs/翋宝企业策划师岗位说明书.pdf
-[CI驾驶员]: http://hrbp.labaos.com/docs/翋宝CI驾驶员岗位说明书.pdf
+[企业策划师]: http://hrbp.labaos.com/docs/职员级/翋宝企业策划师岗位说明书.pdf
+[CI驾驶员]: http://hrbp.labaos.com/docs/职员级/翋宝CI驾驶员岗位说明书.pdf
 
-职业系列职位:[职业经理人]、[职业秘书]
 
-[职业经理人]: http://hrbp.labaos.com/docs/翋宝职业经理人岗位说明书.pdf
-[职业秘书]: http://hrbp.labaos.com/docs/翋宝职业秘书岗位说明书.pdf
+专业级:
+
+专业职业系列职位:[职业经理人]、[职业秘书]
+
+[职业经理人]: http://hrbp.labaos.com/docs/专业级/翋宝职业经理人岗位说明书.pdf
+[职业秘书]: http://hrbp.labaos.com/docs/专业级/翋宝职业秘书岗位说明书.pdf
 
 
 翋宝电商渠道业务:
