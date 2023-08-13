@@ -55,7 +55,7 @@ E-MAIL
 招聘:
 目前面向社会广招精英,如您有意加入我们请将您的简历等信息发送至admin@labaos.cn,我们期待您的加入.
 招聘职级:经理级、总监级、职员级、专业级
-类型:商务、服务、运营、营销、市场、技术、管理、资源等类型精英
+类型:商务、服务、运营、营销、市场、技术、管理、资源、专业化、职业化等类型精英
 
 
 ```
@@ -84,7 +84,7 @@ E-MAIL
 [项目经理]: http://hrbp.labaos.com/docs/经理级/翋宝项目经理岗位说明书.pdf
 [产品经理]: http://hrbp.labaos.com/docs/经理级/翋宝产品经理岗位说明书.pdf
 [商务经理]: http://hrbp.labaos.com/docs/经理级/翋宝商务经理岗位说明书.pdf
-[电商运营经理]: http://hrbp.labaos.com/docs/经理级/翋宝电子商务运营经理岗位说明书.pdf
+[运营经理]: http://hrbp.labaos.com/docs/经理级/翋宝运营经理岗位说明书.pdf
 
 [营销经理]: http://hrbp.labaos.com/docs/经理级/翋宝营销经理岗位说明书.pdf
 [技术经理]: http://hrbp.labaos.com/docs/经理级/翋宝技术经理岗位说明书.pdf
