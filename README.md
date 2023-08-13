@@ -119,7 +119,7 @@ E-MAIL
 综合系列职位:[企业策划师]、[驾驶员]
 
 [企业策划师]: http://hrbp.labaos.com/docs/职员级/翋宝企业策划师岗位说明书.pdf
-[CI驾驶员]: http://hrbp.labaos.com/docs/职员级/翋宝驾驶员岗位说明书.pdf
+[驾驶员]: http://hrbp.labaos.com/docs/职员级/翋宝驾驶员岗位说明书.pdf
 
 
 专业级:
